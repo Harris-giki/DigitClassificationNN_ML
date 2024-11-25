@@ -57,8 +57,6 @@
             <li><strong>Model Improvement:</strong> Experiment with more advanced models, such as Convolutional Neural Networks (CNNs), to improve accuracy.</li>
             <li><strong>Real-time Prediction:</strong> Implement real-time digit recognition using a camera feed.</li>
         </ul>
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License.</p>
         <h2>Acknowledgements</h2>
         <ul>
             <li><a href="http://yann.lecun.com/exdb/mnist/">MNIST Dataset</a></li>
